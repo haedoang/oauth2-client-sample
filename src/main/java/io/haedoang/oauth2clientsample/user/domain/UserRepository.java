@@ -1,4 +1,4 @@
-package io.haedoang.secure.user.domain;
+package io.haedoang.oauth2clientsample.user.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

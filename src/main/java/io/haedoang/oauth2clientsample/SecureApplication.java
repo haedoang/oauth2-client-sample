@@ -1,4 +1,4 @@
-package io.haedoang.secure;
+package io.haedoang.oauth2clientsample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

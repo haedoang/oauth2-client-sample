@@ -1,6 +1,6 @@
-package io.haedoang.secure.config;
+package io.haedoang.oauth2clientsample.config;
 
-import io.haedoang.secure.user.application.CustomOAuth2UserService;
+import io.haedoang.oauth2clientsample.user.application.CustomOAuth2UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
 import org.springframework.context.annotation.Bean;

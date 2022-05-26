@@ -1,6 +1,6 @@
-package io.haedoang.secure.user.application;
+package io.haedoang.oauth2clientsample.user.application;
 
-import io.haedoang.secure.user.domain.User;
+import io.haedoang.oauth2clientsample.user.domain.User;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

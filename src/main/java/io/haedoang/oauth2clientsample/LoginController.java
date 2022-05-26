@@ -1,7 +1,6 @@
-package io.haedoang.secure;
+package io.haedoang.oauth2clientsample;
 
-import io.haedoang.secure.user.domain.SessionUser;
-import io.haedoang.secure.user.domain.User;
+import io.haedoang.oauth2clientsample.user.domain.SessionUser;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

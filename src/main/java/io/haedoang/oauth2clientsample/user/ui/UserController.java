@@ -1,7 +1,7 @@
-package io.haedoang.secure.user.ui;
+package io.haedoang.oauth2clientsample.user.ui;
 
-import io.haedoang.secure.user.domain.User;
-import io.haedoang.secure.user.domain.UserRepository;
+import io.haedoang.oauth2clientsample.user.domain.User;
+import io.haedoang.oauth2clientsample.user.domain.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

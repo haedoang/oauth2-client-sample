@@ -1,8 +1,8 @@
-package io.haedoang.secure.user.application;
+package io.haedoang.oauth2clientsample.user.application;
 
-import io.haedoang.secure.user.domain.SessionUser;
-import io.haedoang.secure.user.domain.User;
-import io.haedoang.secure.user.domain.UserRepository;
+import io.haedoang.oauth2clientsample.user.domain.SessionUser;
+import io.haedoang.oauth2clientsample.user.domain.User;
+import io.haedoang.oauth2clientsample.user.domain.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
